@@ -3,7 +3,7 @@
 
 -  💼 Sou Estagiário de TI.
 -  📚 Estou no último semestre da Faculdade de Análise e Desenvolvimento de Sistemas.
--  🔥 JAVA │ JavaScript │ MySQL │ HTML & CSS  │ Python │ Git & GitHUB
+-  🔥  HTML | CSS | JAVASCRIPT | JQUERY | PHP | MYSQL
 -  📩 Contate-me no E-mail = fernandesyan13@gmail.com.
 
 <div align="center">
