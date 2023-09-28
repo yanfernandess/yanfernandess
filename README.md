@@ -3,6 +3,7 @@
 
 -  💼   Analista de TI
 -  📚   Formado em Análise e Desenvolvimento de Sistemas
+-  📚   Cursando Pós-graduação em Segurança de Redes
 -  🔥   CyberSecurity
 -  📩   Contate-me no E-mail = fernandesyan13@gmail.com
 
