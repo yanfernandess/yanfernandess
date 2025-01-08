@@ -4,6 +4,8 @@
 -  💼   Analista de TI
 -  📚   Formado em Análise e Desenvolvimento de Sistemas
 -  📚   Pós-graduado em Segurança de Redes
+-  📚   Pós-graduando Especialização em Cibersegurança Ofensiva
+-  📚   eJPTv2, CMPen Android and CMPen iOS
 -  🔥   CyberSecurity
 -  📩   Contate-me no E-mail = fernandesyan13@gmail.com
 
